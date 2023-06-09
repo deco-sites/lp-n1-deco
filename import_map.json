@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/lp-n1-deco/": "./",
+
     "deco-sites/start/": "./",
     "deco-sites/std/": "https://denopkg.com/deco-sites/std@1.9.0/",
     "$live/": "https://denopkg.com/deco-cx/live@1.5.1/",

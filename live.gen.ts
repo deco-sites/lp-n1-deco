@@ -119,7 +119,7 @@ import * as i2$$$$$19 from "deco-sites/std/actions/vtex/wishlist/removeItem.ts";
 
 const manifest = {
   "functions": {
-    "deco-sites/start/functions/LoadGitHubRaw.ts": $0,
+    "deco-sites/lp-n1-deco/functions/LoadGitHubRaw.ts": $0,
     "deco-sites/std/functions/butterCMSAds.ts": i2$0,
     "deco-sites/std/functions/butterCMSBrands.ts": i2$1,
     "deco-sites/std/functions/butterCMSCategories.ts": i2$2,
@@ -166,9 +166,9 @@ const manifest = {
     "$live/sections/PageInclude.tsx": i2$$$$0,
     "$live/sections/Slot.tsx": i2$$$$1,
     "$live/sections/UseSlot.tsx": i2$$$$2,
-    "deco-sites/start/sections/DesignSystem.tsx": $$$$$$$$1,
-    "deco-sites/start/sections/GetStarted.tsx": $$$$$$$$2,
-    "deco-sites/start/sections/Head.tsx": $$$$$$$$0,
+    "deco-sites/lp-n1-deco/sections/DesignSystem.tsx": $$$$$$$$1,
+    "deco-sites/lp-n1-deco/sections/GetStarted.tsx": $$$$$$$$2,
+    "deco-sites/lp-n1-deco/sections/Head.tsx": $$$$$$$$0,
     "deco-sites/std/sections/Analytics.tsx": i2$$$$3,
     "deco-sites/std/sections/configButterCMS.global.tsx": i2$$$$4,
     "deco-sites/std/sections/configOCC.global.tsx": i2$$$$5,
